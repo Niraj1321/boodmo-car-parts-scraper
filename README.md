@@ -199,7 +199,7 @@ Typical product data includes:
 
 ## 👨‍💻 Author
 
-**Aman Chauhan**
+**Niraj Chauhan**
 Python Developer | Web Scraping Engineer
 
 
